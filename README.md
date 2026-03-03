@@ -31,3 +31,4 @@ Simply open `index.html` in your web browser to view the website.
 ## License
 
 This project is open source and available for personal use.
+# events
